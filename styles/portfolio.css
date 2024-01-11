@@ -143,3 +143,20 @@ main{
 #what-i-do-description{
 padding: 30px 150px;
 }
+/* skill related style */
+.skil-container{
+    display: flex;
+}
+.skil{
+padding: 30px;
+gap: 24px;
+}
+.skil-description{
+
+    color: #757575;
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+}
